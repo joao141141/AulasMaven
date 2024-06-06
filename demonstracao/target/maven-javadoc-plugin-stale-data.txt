@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/joaoh/OneDrive/Área de Trabalho/Javac/AulasMaven/demonstracao/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/joaoh/OneDrive/Área de Trabalho/Javac/AulasMaven/demonstracao/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demonstracao 1.0.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/joaoh/OneDrive/Área de Trabalho/Javac/AulasMaven/demonstracao/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demonstracao 1.0.1 API'
+teste.um
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\src\main\java = 1717706405472
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\allclasses-index.html = 1717707858924
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\allpackages-index.html = 1717707858926
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\copy.svg = 1717707858949
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\element-list = 1717707858884
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\help-doc.html = 1717707858945
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\index-all.html = 1717707858936
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\index.html = 1717707858939
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\javadoc.bat = 1717707812680
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\link.svg = 1717707858950
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\member-search-index.js = 1717707858929
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\module-search-index.js = 1717707858927
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\overview-tree.html = 1717707858915
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\package-search-index.js = 1717707858928
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\script.js = 1717707858948
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\search-page.js = 1717707858952
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\search.html = 1717707858938
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\search.js = 1717707858951
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\stylesheet.css = 1717707858947
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\tag-search-index.js = 1717707858930
+C:\Users\joaoh\OneDrive\Área de Trabalho\Javac\AulasMaven\demonstracao\target\site\apidocs\type-search-index.js = 1717707858928
